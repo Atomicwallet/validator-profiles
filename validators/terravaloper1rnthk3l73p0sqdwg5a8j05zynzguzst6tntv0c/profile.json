@@ -1,0 +1,10 @@
+{
+    "contact": { 
+        "email": "devops@atomicwallet.io",
+        "telegram": "https://t.me/AtomicWalletNews",
+        "twitter":  "https://twitter.com/atomicwallet"
+    },
+    "notifications": {
+        "email": "support@atomicwallet.io" 
+    }
+  }
