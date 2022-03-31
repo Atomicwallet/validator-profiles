@@ -9,7 +9,7 @@ Website: https://atomicwallet.io
 
 # Atomicwallet
 
-![Atomicwallet](./logo.png)
+![Atomicwallet](./atomicwallet.png)
 
 Atomic Wallet is a decentralized non custodial app to manage, exchange and stake over 300 blockchains and tokens. We have over 1,000,000 users across various devices and support entire blockchain ecosystem since 2017.
 
